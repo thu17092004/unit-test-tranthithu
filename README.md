@@ -20,9 +20,9 @@ Viết lớp `StudentAnalyzer` với hai phương thức chính:
 - tạo file StudentAnalyzer.java và StudentAnalyzerTest.java
 - thêm thư viện
 - chạy chương trình
-# Cách kiểm thử:
+# Cách đo độ bao phủ:
 - Cài đặt plugin EclEmma Java Code Coverage.
 - Chọn project -> chuột phải → chọn Coverage As > JUnit Test.
-# Kết quả kiểm thử:
+# Kết quả đo:
 ![image](https://github.com/user-attachments/assets/b727dec1-5b10-48c7-b28b-d743105e4d65)
 
